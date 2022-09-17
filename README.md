@@ -37,7 +37,7 @@ School Summary after removal
 
 ---
 
-- The ranking of Thomas High School as the second highest performing school remained unchanged. The rankings of the top and bottom 5 schools by overall passing percentage is shown.
+- The ranking of Thomas High School as the second highest performing school remained unchanged. The rankings of the top and bottom 5 schools by overall passing percentage are shown.
 
 ![Before](./Images/top5.png)
 School Summary Top 5 before removal
